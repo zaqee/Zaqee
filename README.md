@@ -1,8 +1,5 @@
 <a href="https://zaqee.me"><img align="left" alt="HTML" width="100px" style="padding-right:10px;" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&duration=2000&pause=1000&color=F7F7F7&background=000000&center=true&vCenter=true&width=70&height=70&lines=%7B+ZR+%7D;Zaqee"/>
 
-<br>hello</br>
-<br></br>
-
 
 **`Developer (Programmer/Designer)`**
 
