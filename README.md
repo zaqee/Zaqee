@@ -13,7 +13,7 @@ Hi, I'm Zaqee, a passionate student with a love for coding and developing new ha
       <a href="https://github.com/zaqeedev?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ZaqeeDev?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
        <a href="https://replit.com/@zaqee">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ZaqeeDev?color=00000c&style=for-the-badge&labelColor=488207&?logo=replit.com"/></a>
+         <img alt="Replit" title="Follow on Replit" src="https://custom-icon-badges.demolab.com/color=00000c&style=for-the-badge&labelColor=00000&?logo=replit.com"/></a>
    </p>
 
 ---
