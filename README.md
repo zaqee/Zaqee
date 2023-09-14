@@ -13,8 +13,8 @@ Hi, I'm Zaqee, a passionate student with a love for coding and developing new ha
       <a href="https://www.youtube.com/@ZaqeeDev?sub_confirmation=1">
          <img alt="youtube subscribers" title="YouTube (@ZaqeeDev)" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC8K1nrqds-de_yWfcgykOng?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://github.com/ZaqeeDev?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ZaqeeDev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/zaqeedev?tab=repositories&sort=stargazers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ZaqeeMe?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/zaqeeme?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ZaqeeDev?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
       
    </p>
@@ -39,10 +39,10 @@ Hi, I'm Zaqee, a passionate student with a love for coding and developing new ha
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaqeedev&show_icons=true&theme=gruvbox)
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaqeeme&show_icons=true&theme=gruvbox)
 
 
 
 <details><summary><h3>©️ My Companys/PRojects</h3></summary>
 
-<a href="https://axelgames.site"><img align="left" alt="HTML" width="300px" style="padding-right:10px;" style="border-radius:0;" src="[https://github.com/ZaqeeDev/Zaqee.github.io/blob/main/My%20Protfolio%20assets/Axel%20Games%20bg.png?raw=true](https://github.com/ZaqeeDev/ZaqeeDev/blob/main/My%20Protfolio%20assets/Axel%20Games%20bg.png?raw=true)"/><a href="https://proxy.axelgames.site"><img align="left" alt="HTML" width="300px" style="padding-right:10px;" style="border-radius:0;" src="[https://github.com/ZaqeeDev/Zaqee.github.io/blob/main/My%20Protfolio%20assets/axelproxy%20big.png?raw=true]([https://github.com/ZaqeeDev/ZaqeeDev/blob/main/My%20Protfolio%20assets/axelproxy%20big.png?raw=true](https://github.com/ZaqeeDev/ZaqeeDev/blob/main/My%20Protfolio%20assets/axelproxy%20big.png?raw=true))"/><a href="https://vpn.axelgames.site"><img align="left" alt="HTML" width="300px" style="padding-right:10px;" style="border-radius:0%;" src="https://github.com/ZaqeeDev/Zaqee.github.io/blob/main/My%20Protfolio%20assets/axelvpn%20full.png?raw=true"/><a href="https://www.replit.com/@Descripters"><img align="left" alt="HTML" width="300px" style="padding-right:10px;" style="border-radius:0%;" src="https://github.com/ZaqeeDev/Zaqee.github.io/blob/main/My%20Protfolio%20assets/descripterno.png?raw=true"/>
+<a href="https://axelgames.site"><img align="left" alt="HTML" width="300px" style="padding-right:10px;" style="border-radius:0;" src="[https://github.com/Zaqeeme/Zaqee.github.io/blob/main/My%20Protfolio%20assets/Axel%20Games%20bg.png?raw=true](https://github.com/Zaqeeme/Zaqeeme/blob/main/My%20Protfolio%20assets/Axel%20Games%20bg.png?raw=true)"/><a href="https://proxy.axelgames.site"><img align="left" alt="HTML" width="300px" style="padding-right:10px;" style="border-radius:0;" src="[https://github.com/ZaqeeDev/Zaqee.github.io/blob/main/My%20Protfolio%20assets/axelproxy%20big.png?raw=true]([https://github.com/ZaqeeDev/ZaqeeDev/blob/main/My%20Protfolio%20assets/axelproxy%20big.png?raw=true](https://github.com/ZaqeeDev/ZaqeeDev/blob/main/My%20Protfolio%20assets/axelproxy%20big.png?raw=true))"/><a href="https://vpn.axelgames.site"><img align="left" alt="HTML" width="300px" style="padding-right:10px;" style="border-radius:0%;" src="https://github.com/ZaqeeDev/Zaqee.github.io/blob/main/My%20Protfolio%20assets/axelvpn%20full.png?raw=true"/><a href="https://www.replit.com/@Descripters"><img align="left" alt="HTML" width="300px" style="padding-right:10px;" style="border-radius:0%;" src="https://github.com/ZaqeeDev/Zaqee.github.io/blob/main/My%20Protfolio%20assets/descripterno.png?raw=true"/>
