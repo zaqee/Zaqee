@@ -32,11 +32,10 @@ Hi, I'm Zaqee, a passionate student with a love for coding and developing new ha
 ---
 
 
----
 
 ### 📊 Stats
 
-![@ZaqeeMe](https://github-readme-stats.vercel.app/api?username=zaqeeme&show_icons=true&theme=gruvbox)
+style="padding-right:10px;"![@ZaqeeMe](https://github-readme-stats.vercel.app/api?username=zaqeeme&show_icons=true&theme=gruvbox)
 
 
 
