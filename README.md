@@ -10,7 +10,7 @@ Hi, I'm Zaqee, a passionate student with a love for coding and developing new ha
       <a href="https://www.youtube.com/@ZaqeeDev?sub_confirmation=1">
          <img alt="youtube subscribers" title="YouTube (@ZaqeeDev)" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC8K1nrqds-de_yWfcgykOng?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
         <a href="https://https://replit.com/@zaqee">
-         <img alt="Follow" title="Replit (@zaqee)" src="https://custom-icon-badges.demolab.com/badge/-Replit-orange?style=for-the-badge&logoColor=white?logo=replit-icon-logo-a666709fe9"/></a> 
+         <img alt="Follow" title="Replit (@zaqee)" src="https://custom-icon-badges.demolab.com/badge/-Replit-orange?logo=replit-icon-logo-a666709fe9?style=for-the-badge&logoColor=white"/></a> 
       <a href="https://github.com/Zaqeeme?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ZaqeeMe?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/zaqeeme?tab=repositories&sort=stargazers">
