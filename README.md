@@ -39,7 +39,7 @@ Hi, I'm Zaqee, a passionate student with a love for coding and developing new ha
 ---
 
 
-<h3>©️ My Companys/Projects</h3>
+<h3>©️ My Companys/Projects</h3> <a> href="https://zaqee.me"</a>
 
 
 <a href="https://axelgames.site"><img align="left" alt="HTML" width="300px" style="padding-right:10px;" style="border-radius:5;" src="https://github.com/ZaqeeMe/ZaqeeMe/blob/main/My%20Protfolio%20assets/Axel%20Games%20bg.png?raw=true"/><a href="https://proxy.axelgames.site"><img align="left" alt="HTML" width="300px" style="padding-right:10px;" style="border-radius:5;" src="https://github.com/ZaqeeMe/ZaqeeMe/blob/main/My%20Protfolio%20assets/axelproxy%20big.png?raw=true"/><a href="https://vpn.axelgames.site"><img align="left" alt="HTML" width="300px" style="padding-right:10px;" style="border-radius:5;" src="https://github.com/ZaqeeMe/ZaqeeMe/blob/main/My%20Protfolio%20assets/axelvpn%20full.png?raw=true"/><a href="https://www.replit.com/@Descripters"><img align="left" alt="HTML" width="300px" style="padding-right:10px;" style="border-radius:5;" src="https://github.com/ZaqeeMe/ZaqeeMe/blob/main/My%20Protfolio%20assets/descripterno.png?raw=true"/>
