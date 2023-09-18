@@ -27,7 +27,6 @@ Hi, I'm Zaqee, a passionate student with a love for coding and developing new ha
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 
-#
 
 
 ---
@@ -37,10 +36,10 @@ Hi, I'm Zaqee, a passionate student with a love for coding and developing new ha
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaqeeme&show_icons=true&theme=gruvbox)
+![@ZaqeeMe](https://github-readme-stats.vercel.app/api?username=zaqeeme&show_icons=true&theme=gruvbox)
 
 
 
-<details><summary><h3>©️ My Companys/PRojects</h3></summary>
+<details><summary><h3>©️ My Companys/Projects</h3></summary>
 
 <a href="https://axelgames.site"><img align="left" alt="HTML" width="300px" style="padding-right:10px;" style="border-radius:0;" src="[https://github.com/Zaqeeme/Zaqee.github.io/blob/main/My%20Protfolio%20assets/Axel%20Games%20bg.png?raw=true](https://github.com/Zaqeeme/Zaqeeme/blob/main/My%20Protfolio%20assets/Axel%20Games%20bg.png?raw=true)"/><a href="https://proxy.axelgames.site"><img align="left" alt="HTML" width="300px" style="padding-right:10px;" style="border-radius:0;" src="[https://github.com/ZaqeeDev/Zaqee.github.io/blob/main/My%20Protfolio%20assets/axelproxy%20big.png?raw=true]([https://github.com/ZaqeeDev/ZaqeeDev/blob/main/My%20Protfolio%20assets/axelproxy%20big.png?raw=true](https://github.com/ZaqeeDev/ZaqeeDev/blob/main/My%20Protfolio%20assets/axelproxy%20big.png?raw=true))"/><a href="https://vpn.axelgames.site"><img align="left" alt="HTML" width="300px" style="padding-right:10px;" style="border-radius:0%;" src="https://github.com/ZaqeeDev/Zaqee.github.io/blob/main/My%20Protfolio%20assets/axelvpn%20full.png?raw=true"/><a href="https://www.replit.com/@Descripters"><img align="left" alt="HTML" width="300px" style="padding-right:10px;" style="border-radius:0%;" src="https://github.com/ZaqeeDev/Zaqee.github.io/blob/main/My%20Protfolio%20assets/descripterno.png?raw=true"/>
