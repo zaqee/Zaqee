@@ -9,10 +9,10 @@ Hi, I'm Zaqee, a passionate student with a love for coding and developing new ha
    <p align="left">
       <a href="https://www.youtube.com/@ZaqeeDev?sub_confirmation=1">
          <img alt="youtube subscribers" title="YouTube (@ZaqeeDev)" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC8K1nrqds-de_yWfcgykOng?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://github.com/ZaqeeDev?tab=followers">
+      <a href="https://github.com/Zaqeeme?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ZaqeeMe?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/zaqeeme?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ZaqeeDev?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Zaqeeme?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
       
    </p>
 
