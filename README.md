@@ -1,33 +1,54 @@
-# Hi there, I'm Zaqee! 👋
+# { Z.R }
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200">
-</div>
+**`just a coder for fun...`**
 
-I'm a passionate programmer and aspiring AI enthusiast based in London, UK. Currently, I'm a GCSE student at CCC Cranford Community College, with a keen interest in expanding my programming skills and eventually creating my own AI.
+I am a GSCE Student thta loves to learn how things work and try replicate them. I plan on doing Computer Science for my GSCE and do A-Level in them, I would also love to go to TokyoTech to further persure me dream of becoming a Coder... For now I am "just a coder for fun" 
 
-## 🔭 Currently Working On
-- Completing my Python course
-- Exploring various programming languages and technologies
+<!---
+   
+      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+      <a href="https://www.youtube.com/c/fknight">
+         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+--->
+<p align="left">
+      <a href="https://github.com/ForrestKnight?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/zaqeeme?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/zaqeeme?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
 
-## 🌱 Learning
-- Python
-- Other programming languages
-- AI and machine learning concepts
+---
 
-## 💼 Work Experience
-- [Previous Work Experience 1](link_to_experience_1)
-- [Previous Work Experience 2](link_to_experience_2)
+### 🧰 Languages and Tools
 
-## 📫 How to Reach Me
-[![Twitter Badge](https://img.shields.io/twitter/follow/your_username?style=social)](https://twitter.com/your_username)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your_username)
-[![Email Badge](https://img.shields.io/badge/Email-Send-red)](mailto:your.email@example.com)
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<br />
 
-## ⚡ Fun Fact
-I love Japanese culture and plan to study abroad in Tokyo, Japan at the University of Tokyo Tech.
+#
 
-## 🚀 Showcase
-- [Project 1](project1_link): Project 1 Description
-- [Project 2](project2_link): Project 2 Description
-- [Project 3](project3_link): Project 3 Description
+### 📊 Stats
+
+![ZaqeeMe's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaqeeme&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+---
+
+#
+[website](https://zaqee.me)
+[replit](https://replit.com/@zaqee)
+
+#
+
+<details>
+ <summary><h3>Projects</h3></summary>
+   I will add later
+
