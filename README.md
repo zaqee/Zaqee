@@ -41,6 +41,10 @@ I am a GSCE Student thta loves to learn how things work and try replicate them. 
 ![GitHub Streak](https://streak-stats.demolab.com?user=zaqeeme&theme=gruvbox&border_radius=4.5)
 ---
 
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
+
+
 #
 [website](https://zaqee.me)
 [replit](https://replit.com/@zaqee)
