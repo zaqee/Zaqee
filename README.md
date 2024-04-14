@@ -4,18 +4,18 @@
 
 I am a GSCE Student thta loves to learn how things work and try replicate them. I plan on doing Computer Science for my GSCE and do A-Level in them, I would also love to go to TokyoTech to further persure me dream of becoming a Coder... For now I am "just a coder for fun" 
 
-<!---
+
    
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/c/fknight">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
---->
+
 <p align="left">
       <a href="https://github.com/zaqeeme?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/zaqeeme?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/zaqeeme?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/zaqeeme?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   <a href="https://www.youtube.com/@notzaqee?sub_confirmation=1">
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCnE_0DY2Dr0Vez-deR3O20w?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+      <a href="https://www.youtube.com/@notzaqee">
+         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCnE_0DY2Dr0Vez-deR3O20w?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
    </p>
 
 ---
@@ -38,8 +38,7 @@ I am a GSCE Student thta loves to learn how things work and try replicate them. 
 ### 📊 Stats
 
 ![ZaqeeMe's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaqeeme&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+![GitHub Streak](https://streak-stats.demolab.com?user=zaqeeme&theme=gruvbox&border_radius=4.5)
 ---
 
 #
@@ -51,4 +50,4 @@ I am a GSCE Student thta loves to learn how things work and try replicate them. 
 <details>
  <summary><h3>Projects</h3></summary>
    I will add later
-
+<details/>
