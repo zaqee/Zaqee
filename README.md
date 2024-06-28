@@ -12,9 +12,9 @@ I am a GSCE Student thta loves to learn how things work and try replicate them. 
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/zaqeeme?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/zaqeeme?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/zaqeeme?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   <a href="https://www.youtube.com/@notzaqee?sub_confirmation=1">
+   <a href="https://www.youtube.com/@maybezk?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCnE_0DY2Dr0Vez-deR3O20w?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/@notzaqee">
+      <a href="https://www.youtube.com/@maybezk">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCnE_0DY2Dr0Vez-deR3O20w?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
    <a href="https://discord.gg/j7EHxKZZGp" alt="Discord" title="Discord">
     <img src="https://img.shields.io/discord/1229041650551099432?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
