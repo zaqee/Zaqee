@@ -8,10 +8,10 @@ I am a GSCE Student thta loves to learn how things work and try replicate them. 
    
 
 <p align="left">
-      <a href="https://github.com/zaqeeme?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/zaqeeme?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/zaqeeme?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/zaqeeme?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+      <a href="https://github.com/zaqee?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/zaqee?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/zaqee?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/zaqee?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    <a href="https://www.youtube.com/@maybezk?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCnE_0DY2Dr0Vez-deR3O20w?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://www.youtube.com/@maybezk">
@@ -39,8 +39,8 @@ I am a GSCE Student thta loves to learn how things work and try replicate them. 
 
 ### 📊 Stats
 
-![ZaqeeMe's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaqeeme&show_icons=true&theme=gruvbox)
-![GitHub Streak](https://streak-stats.demolab.com?user=zaqeeme&theme=gruvbox&border_radius=4.5)
+![ZaqeeMe's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaqee&show_icons=true&theme=gruvbox)
+![GitHub Streak](https://streak-stats.demolab.com?user=zaqee&theme=gruvbox&border_radius=4.5)
 ---
 
 <!-- BEGIN YOUTUBE-CARDS -->
