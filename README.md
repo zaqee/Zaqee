@@ -41,6 +41,11 @@ I am a GSCE Student thta loves to learn how things work and try replicate them. 
 
 ![ZaqeeMe's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaqee&show_icons=true&theme=gruvbox)
 ![GitHub Streak](https://streak-stats.demolab.com?user=zaqee&theme=gruvbox&border_radius=4.5)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/zaqee/Zaqee/cf42d4c26c47b8066120c80304e457a51241ee85/My%20Protfolio%20assets/github-user-contribution.svg" />
+</picture>
 ---
 
 <!-- BEGIN YOUTUBE-CARDS -->
