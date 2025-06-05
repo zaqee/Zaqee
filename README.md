@@ -2,7 +2,7 @@
 
 **`just a coder for fun...`**
 
-I am a GSCE Student thta loves to learn how things work and try replicate them. I plan on doing Computer Science for my GSCE and do A-Level in them, I would also love to go to TokyoTech to further persure me dream of becoming a Coder... For now I am "just a coder for fun" 
+I am a GSCE Student thta loves to learn how things work and try replicate them. I am doing Computer Science for my GSCE and do A-Level in them, I would also love to go to TokyoTech to further persure me dream of becoming a Computer Engineer... For now I am "just a coder for fun" 
 
 
    
